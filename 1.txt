@@ -4,6 +4,6 @@
     ├── animals.html
     ├── contact.html
     ├── styles.css
-     └── images
-          └── cat.png
+    └── images
+      └── cat.png
     └── script.js
