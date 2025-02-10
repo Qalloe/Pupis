@@ -5,5 +5,5 @@
     ├── contact.html
     ├── styles.css
      └── images
-          └── dog.jpg
+          └── cat.png
     └── script.js
