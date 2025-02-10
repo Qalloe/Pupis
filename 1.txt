@@ -1,0 +1,7 @@
+/приют-сайт
+    ├── index.html
+    ├── about.html
+    ├── animals.html
+    ├── contact.html
+    ├── styles.css
+    └── script.js
