@@ -4,4 +4,6 @@
     ├── animals.html
     ├── contact.html
     ├── styles.css
+     └── images
+          └── dog.jpg
     └── script.js
